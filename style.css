@@ -9,18 +9,62 @@ p{
 }
 .btn1{
     position:absolute ; left: 20px; bottom: 775px;
+    background-color: pink; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
 }
 .btn2{
-    position:absolute ; left: 20px; bottom: 750px;
+    position:absolute ; left: 20px; bottom: 720px;
+    background-color: pink; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
 }
 .btn3{
-    position:absolute ; left: 20px; bottom: 725px;
+    position:absolute ; left: 20px; bottom: 665px;
+    background-color: pink; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
 }
 .btn4{
-    position:absolute ; left: 20px; bottom: 700px;
+    position:absolute ; left: 20px; bottom: 610px;
+    background-color: pink; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
 }
 .btn5{
-    position:absolute ; left: 20px; bottom: 675px;
+    position:absolute ; left: 20px; bottom: 555px;
+    background-color: pink; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid black;
 }
-
 
